@@ -2,4 +2,4 @@
 
 
 
-This reposity is created for DataMinnig Course Homeworks, Fall 2020
+This repository is created for DataMinnig Course Homeworks, Fall 2020
